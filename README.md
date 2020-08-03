@@ -1,6 +1,5 @@
 # ghspandemic
-
-A new Flutter project.
+Get info on the various pandemics.
 
 ## Getting Started
 
